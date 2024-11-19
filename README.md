@@ -9,7 +9,7 @@ Includes the LAN crash fix - source: https://github.com/SilverSix311/PlugY-PD2
 
 ## Setup Guide
 1. Pre-Setup - Ensure you have *Diablo II LoD* and *PD2* installed
-2. Add PlugY - copy the **ProjectD2** folder included here into your **Diablo II** folder
+2. Add PlugY - merge the **ProjectD2** folder included here into your **ProjectD2** folder
 3. Run **PlugY.exe** as administrator
 
 When new seasons/patches are released, you'll need to run PD2 via the launcher to update the game. Running the game via the launcher will also update your lootfilter.
