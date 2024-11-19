@@ -3,7 +3,9 @@
 
 PlugY is a singleplayer mod which adds stash pages, fixes ubers, and allows unlimited skill/stat resets as well as several other optional features.
 
-### [Download](https://github.com/BetweenWalls/PD2-PlugY/archive/main.zip)
+Includes the LAN crash fix - source: https://github.com/SilverSix311/PlugY-PD2
+
+### [Download](https://github.com/synpoox/PD2-PlugY/archive/main.zip)
 
 ## Setup Guide
 1. Pre-Setup - Ensure you have *Diablo II LoD* and *PD2* installed
